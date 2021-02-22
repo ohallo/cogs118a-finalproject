@@ -26,7 +26,8 @@ Week 8
 (Mon/Tues/Wed) - attempt to recreate results for "Letter" 
     - data = https://archive.ics.uci.edu/ml/datasets/Letter+Recognition
 (Thur/Fri) - do again for different data set(s) 
-    - need to figure out what size prof wants
+    - 7-10k samples
+    
 
 
 
