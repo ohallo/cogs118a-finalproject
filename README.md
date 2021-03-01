@@ -28,6 +28,16 @@ Week 8
 (Thur/Fri) - do again for different data set(s) 
     - 7-10k samples
     
+    
+ 
+ Dataset 1:
+ 
+ Some issues:
+  - error metrics were not happening w/in the call
+  - unregularized, regularized Logistic regression (separate)
+  - SVM: different kernals (separate)
+  - KNN: K = |trainset| ????
+
 
 
 
