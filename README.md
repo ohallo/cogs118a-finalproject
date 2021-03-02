@@ -34,10 +34,14 @@ Week 8
  
  Some issues:
   - error metrics were not happening w/in the call
-  - unregularized, regularized Logistic regression (separate)
-  - SVM: different kernals (separate)
-  - KNN: K = |trainset| ????
+  - unregularized, regularized Logistic regression (separate) check 
+  - SVM: different kernals (separate) ??
 
+ 
+  - piazza post @611: "Note that GridSaerchCV saves all the metric values of all param settings. You can use that to retroactively find the best AUC params, train it up, get test set performance, then do it again on the ACC, etc." QUESTION = what do you mean by this - are we looking for the params that did best in training or testing?
+
+ Answered:
+  - KNN: K = |trainset| k=1,5,9,13,17,21,... 105 (which should be 26 values if I'm doing the math right)
 
 
 
