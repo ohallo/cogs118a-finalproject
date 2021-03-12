@@ -5,6 +5,7 @@ Due on March 17, 2021 11:59PM CA
 Replicate a subset of the experiment in ​https://www.cs.cornell.edu/~caruana/ctp/ct.papers/caruana.icml06.pdf
 
 ----CODING ----
+
 Algorithms
 1. Logistic Regression
 2. Random Forest
@@ -32,6 +33,7 @@ Bonus
 2. Mean ROC , PR curves
 
 ---- WRITING ---- 
+
 1. Main 3 tables
 2. Appendix 3 tables
 3. >1000 words
