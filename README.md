@@ -4,6 +4,11 @@ Due on March 17, 2021 11:59PM CA
 
 Replicate a subset of the experiment in ​https://www.cs.cornell.edu/~caruana/ctp/ct.papers/caruana.icml06.pdf
 
+----ISSUES ----
+1. when to transform the data: mushroom -> dont standardize -> dataset then algo for each.... UGH
+2. what the f is up with my training scores for KNN and RF
+3. convergence warning.. what to do about that?
+
 ----CODING ----
 
 Algorithms
@@ -13,10 +18,11 @@ Algorithms
     - Hyper para:  K = |trainset| k=1,5,9,13,17,21,... 105
 
 Datasets
-1. LETTER (positive class A-M, negative class N-Z)
-2. LETTER (positive class O, negative class all letters ≠ O)
-3. Blood pressure https://archive.ics.uci.edu/ml/datasets/Cuff-Less+Blood+Pressure+Estimation
-4. Eye https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
+1. Letter (positive class A-M, negative class N-Z)
+2. Letter (positive class O, negative class all letters ≠ O)
+3. Covertype
+4. Mushroom 
+
 
 Error Metrics
 1. ACC
